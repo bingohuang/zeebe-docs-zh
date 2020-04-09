@@ -1,4 +1,4 @@
-# Zeebe - 中英双语文档
+# Zeebe - 中英文档
 
 This module contains the source of the documentation that is published at [https://docs.zeebe.io/](https://docs.zeebe.io/).
 
