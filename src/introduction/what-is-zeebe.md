@@ -55,7 +55,7 @@ You can learn more about these technical concepts [in the "Basics" section of th
 
 您可以在[文档的“基础”章节](/basics/)了解更多关于这些技术概念的信息。
 
-## Zeebe is simple and lightweight / Zeebe 简单又轻量级
+## Zeebe is simple and lightweight / Zeebe 简单又轻量
 
 Most existing workflow engines offer more features than Zeebe. While having access to lots of features is generally a good thing, it can come at a cost of increased complexity and degraded performance.
 
