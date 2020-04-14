@@ -2,7 +2,7 @@
 
 This module contains the source of the documentation that is published at [https://docs.zeebe.io/](https://docs.zeebe.io/).
 
-文档发布在 [https://bingohuang.com/zeebe-docs-zh/](https://bingohuang.com/zeebe-docs-zh/)。
+文档发布在 [https://zeebe-docs.bingohuang.com](https://zeebe-docs.bingohuang.com)。
 
 ## Building the documentation locally / 在本地构建文档
 
@@ -41,8 +41,8 @@ The important folders/files are:
 
 When a pull request is merged to `develop` then it generates the documentation and publish it to [https://stage.docs.zeebe.io/](https://stage.docs.zeebe.io/).
 
-提交 PR 到 `develop` 分支，它会自动生成文档，并发布到 [https://bingohuang.com/zeebe-docs-zh/](https://bingohuang.com/zeebe-docs-zh/)。
+提交 PR 到 `develop` 分支，它会自动生成文档，并发布到 [https://zeebe-docs.bingohuang.com](https://zeebe-docs.bingohuang.com)。
 
 The documentation is usually published from the stage environment to [https://docs.zeebe.io/](https://docs.zeebe.io/) during the release. However, it can be manually triggered using the [Zeebe CI job](https://ci.zeebe.camunda.cloud/job/zeebe-docs/) if needed.
 
-文档通常会在发布后从稳定环境发布到 [https://bingohuang.com/zeebe-docs-zh/](https://bingohuang.com/zeebe-docs-zh/)。当然，如果需要也可以手动触发 [Zeebe CI 任务](https://ci.zeebe.camunda.cloud/job/zeebe-docs/) 。
+文档通常会在发布后从稳定环境发布到 [https://zeebe-docs.bingohuang.com](https://zeebe-docs.bingohuang.com)。当然，如果需要也可以手动触发 [Zeebe CI 任务](https://ci.zeebe.camunda.cloud/job/zeebe-docs/) 。
