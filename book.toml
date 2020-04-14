@@ -1,6 +1,6 @@
 [book]
-title = "Zeebe Documentation"
-description = "Zeebe is an orchestration engine for distributed microservices"
+title = "Zeebe 中英文档"
+description = "Zeebe is an orchestration engine for distributed microservices(Zeebe 是一个用于微服务编排的工作流编排引擎)"
 
 [preprocessor.commit-hash]
 command = "./preprocessors/commit-hash.py"
@@ -8,7 +8,7 @@ command = "./preprocessors/commit-hash.py"
 [output.html]
 additional-css = ["custom.css"]
 additional-js = ["highlight.protobuf.js"]
-git-repository-url = "https://github.com/zeebe-io/zeebe/tree/develop/docs"
+git-repository-url = "https://github.com/bingohuang/zeebe-docs-zh"
 
 [output.html.fold]
 enable = true
