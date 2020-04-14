@@ -2,7 +2,7 @@
 
 Zeebe is a workflow engine for microservices orchestration. Zeebe ensures that, once started, flows are always carried out fully, retrying steps in case of failures. Along the way, Zeebe maintains a complete audit log so that the progress of flows can be monitored. Zeebe is fault tolerant and scales seamlessly to handle growing transaction volumes.
 
-Zeebe 是一种微服务编排的工作流引擎。 Zeebe 确保，一旦启动，流程总是充分执行，在失败的情况下重新尝试的步骤。 在此过程中，Zeebe 维持一个完整的审计日志，以便监测流动的进度。 Zeebe 具有容错能力，能够无缝地处理不断增长的交易量。
+Zeebe 是一种微服务编排的工作流引擎。 Zeebe 确保一旦启动，流程总是充分执行，在失败的情况下重新尝试的步骤。 在此过程中，Zeebe 维持一个完整的审计日志，以便监测流动的进度。 Zeebe 具有容错能力，能够无缝地处理不断增长的交易量。
 
 Below, we'll provide a brief overview of Zeebe. For more detail, we recommend the ["What is Zeebe?" writeup](https://zeebe.io/what-is-zeebe) on the main Zeebe site.
 

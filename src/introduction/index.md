@@ -2,10 +2,10 @@
 
 This section will help you understand what Zeebe is, how to get started with Zeebe, and how to get in touch with the community and the maintainers to ask questions.
 
-这一部分将帮助你了解什么是 Zeebe，如何开始与 Zeebe，以及如何与社区和维护者联系，并提出问题。
+这一部分将帮助你了解什么是 Zeebe，如何开始使用 Zeebe，以及如何与社区和维护者联系，并提出问题。
 
 * [**What is Zeebe?**](/introduction/what-is-zeebe.html): This writeup is the best place to start if you're brand new to Zeebe and microservices orchestration.
-    * 什么是 Zeebe? : 如果你对 Zeebe 和微服务编配一窍不通，这篇文章是最好的开始。
+    * 什么是 Zeebe? : 如果你对 Zeebe 和微服务编排不了解，这篇文章是最好的开始。
 
 * [**Install**](/introduction/install.html): Download a Zeebe distribution or use Docker to run Zeebe.
     * 安装: 下载一个 Zeebe 发行版或者用 Docker 运行 Zeebe。
